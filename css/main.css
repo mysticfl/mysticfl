@@ -1,0 +1,434 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;	
+	background-color: #3b678b;
+}
+header{
+	height: 73px;
+	background-color: #fff;
+}
+.container {
+	width: 1200px;
+	margin: 0 auto;
+}
+.logo {
+	margin-top: 13px;
+	float:left;
+}
+.lsd {
+	font-size: 20px;
+    margin-top: 32px;
+    margin-left: 20px;
+    float:left;
+    color: #1e2f36;
+    text-decoration: none;
+}
+
+.logo1 {
+	margin-top: 32px;
+	margin-right: 17px;
+	float:right; 
+}
+
+nav {
+	float:left;
+	margin-top: 24px;
+}
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.menu li {
+float:left;
+display:block;
+margin-right: 59px;
+}
+.menu li a {
+	color:#2c353c;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+ .div1 {
+	width: 100%;
+	height: 56px;
+    background-color: #becdd9;
+}
+.logo2 {
+	margin-top: 5px;
+	margin-right: -15px;
+	padding: 0;	
+	float:right;
+}
+.logo3 {
+    margin-top: 20px;
+    padding: 0;
+    margin-right: 15px;
+	float:right;
+}
+.clearfix:after {
+	content: '';
+	display: table;
+	width:100%;
+	clear:both;
+}
+
+.logo4 {
+	margin-top: -188px;
+	padding: 0;
+    margin-right: 15px;
+    float:right;
+}
+.logo5 {
+	margin-top: -150px;
+	padding: 0;
+	margin-right: 35px;
+	float:right;
+}
+.text1 {
+	color:gray;
+	float: right;
+	margin-right: 140px;
+	margin-top: -150px;
+}
+.image-flex {
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 69px;
+}
+.titles__first {
+	font-size: 82px;
+	color:#fff;
+	text-transform: uppercase;
+	text-align: center;
+    margin-top: 90px;
+    font-weight: bold;
+    font-family: openSans, sans-serif;
+}
+h1 {
+	margin-top: -25px;
+	font-size: 14px;
+	color:#fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.s1 {
+	height: 485px;
+	width:100%;
+}
+.hr1 {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.services{
+padding-top: 65px;
+}
+.services__item{
+	width:202px;
+	float:left;
+	text-align: center;
+}
+.services__item h2 {
+font-size: 19px;
+margin-bottom: 5px;
+color:#d9e5f1;
+}
+.services__item p {
+font-size: 15px;
+color:#a5d8fe;
+}
+.services__item:last-child {
+	float:right;
+}
+.services__item:nth-child(2){
+	margin-left: 120px;
+}
+.services__item:nth-child(3){
+	margin-left: 120px;
+}
+.bc-3 {
+height: 282px;
+width: 100%;
+}
+.div2 {
+	width: 100%;
+	height: 282px;
+	background-color: #5697c7;
+}
+.bc-4 {
+	width: 100%;
+	height: 900px;
+}
+.div3 {
+	width: 100%;
+	height: 900px;
+	background-color: #2c353c;
+}
+.titles2 {
+	text-align: center;
+	padding-top: 50px;
+}
+.titles2 h3 {
+	color:#b7c1cc;
+	font-weight: 200;
+	font-size: 50px;
+	margin-bottom: 25px;
+}
+.titles2 p {
+	color:#667885;
+	font-size: 18px;
+}
+.projects {
+	margin-top: 50px;
+}
+.projects__item {
+	width: 100%;
+		
+}
+.div4 {
+	background-color: #fcfcfc;
+	width: 100%;
+	height: 150px;
+}
+.text2 {
+	float:left;
+	margin-top: 35px;
+	color:#2c353c;
+	font-size: 30px;
+}
+span {
+color:#508ed2;
+}
+.button {
+	float:right;
+	background: #508ed2;
+	color:#f7fafd;
+	display: block;
+	width: 220px;
+	padding: 28px 0;
+	margin-top:45px;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+}
+.bc-5 {
+	width: 100%;
+	height: 145px;
+}
+.div5 {
+	background-color: #518dce;
+	width: 100%;
+	height: 510px;
+}
+.bc-6 {
+	width: 100%;
+	height: 510px;
+}
+.image {
+	float: left;
+	padding-top: 69px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 63px;
+}
+.text3 {
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+.text3__item {
+	
+ float:right;
+ width: 518px;
+
+}
+.text3 h3 {
+font-size: 23px;
+	color:#fff;
+	font-family: Open Sans, sans-serif;
+	margin-bottom: 5px;
+}
+.text3 p {
+	color:#96caf5;
+	font-size: 13px;
+	font-family: Open Sans, sans-serif;
+}
+.c1 {
+	vertical-align: middle;
+}
+.div6 {
+	background-color: #3b414c;
+	width: 100%;
+	height: 547px;
+}
+.bc-7 {
+	width: 100%;
+	height: 547px;
+}
+h4 {
+	padding-top: 43px;
+	margin: 0;
+	font-size: 30px;
+	color:#fff;
+	font-weight: 200;
+	text-align: center;
+	text-transform: uppercase;
+}
+.team {
+margin-top: 50px;
+}
+.team__item {
+width: 220px;
+float:left;
+text-align: center;
+}
+.team__item h5 {
+	margin-bottom: 5px;
+font-size: 20px;
+color:#95979b;
+}
+.team__item p {
+font-size: 15px;
+color:#6d747c;
+line-height: 1.6em;
+}
+.team__item:last-child {
+	float:right;
+}
+.team__item:nth-child(2) {
+	margin-left: 116px;
+}
+.team__item:nth-child(3) {
+	margin-left: 116px;
+}
+.bogo1 {
+	margin-left:12px;
+}
+.div7 {
+	background-color: #fcfcfc;
+	width: 100%;
+	height: 153px;
+}
+.bc-8 {
+	width: 100%;
+	height: 153px;
+}
+.image {
+padding-top:30px;
+margin: 0;
+}
+.image__item {
+	width: 160px;
+float:left;
+text-align: center;
+}
+.image__item:last-child {
+float:right;
+}
+.image__item:nth-child(2) {
+	margin-left: 100px;
+}
+.image__item:nth-child(3) {
+	margin-left: 100px;
+}
+.image__item:nth-child(4) {
+	margin-left: 100px;
+}
+.image__item:nth-child(5) {
+	margin-left: 100px;
+}
+.div8 {
+	background-color: #508ed2;
+	width: 100%;
+	height: 120px;
+}
+.bc-9 {
+	width: 100%;
+	height: 120px;
+}
+.twitts {
+	margin: 0;
+}
+
+h6 {
+	
+	width: 886px;
+	padding-left: 170px;
+	margin-top:0px;
+	
+	font-size: 14px;
+	color:#fff;
+	font-weight: 200;
+	
+}
+
+
+.bogo2 {
+	float: left;
+	padding: 0;
+
+}
+.twitts span {
+	color: #afcce9;
+	font-size: 12px;
+}
+.div9 {
+	background-color: #22282e;
+	width: 100%;
+	height: 322px;
+}
+.bc-10 {
+	width: 100%;
+	height: 322px;
+}
+
+.end {
+padding-top: 32px;
+padding-bottom: 50px;
+}
+.end__item {
+	width: 250px;
+	float:left;
+	text-align: center;
+}
+.end__item h7 {
+	margin-bottom: 10px;
+	font-size: 18px;
+	color:#7c93a3;
+}
+.end__item p {
+	font-size: 12px;
+	color:#718695;
+	line-height: 1.6em;
+}
+.end__item:last-child {
+	float:right;
+}
+.end__item:nth-child(2) {
+	margin-left: 50px;
+}
+.end__item:nth-child(3) {
+	margin-left: 50px;
+}
+
+.bogo3 {
+	margin-left:10px;
+}
+footer {
+	background-color: #1d2327;
+	height: 55px;
+}
+.last {
+	float:left;
+	text-align: center;
+	margin-top: 20px;
+}
+.last h8 {
+	color:#5b7386;
+}
